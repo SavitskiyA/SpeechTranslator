@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StreamSpeechRecognition</string>
+    <string name="permission_message">This app needs to record audio and recognize your speech.</string>
+    <string name="listening">Listening…</string>
+    <string name="action_settings">Change language</string>
+
+
+</resources>
